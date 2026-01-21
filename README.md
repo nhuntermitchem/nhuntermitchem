@@ -2,6 +2,7 @@
 
 I’m a recruiter focused on early-stage, VC-backed startups in SF and NYC. 
 I work closely with founders and engineers on difficult, high-impact hires.
+I've placed over 300 engineers the past 9 years in recruiting.
 
 ### What I care about
 - Clear expectations and transparency. I prioritize candidate experience and guarantee I won't 👻 you. 
@@ -14,5 +15,4 @@ I work closely with founders and engineers on difficult, high-impact hires.
 
 ### Currently learning more about
 - The newest tech impacting the AI wave and how companies are implementing them
-- How teams scale from Seed to Series B
 - What actually causes strong engineers to leave good jobs
