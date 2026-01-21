@@ -2,6 +2,7 @@
 
 I’m a recruiter focused on early-stage, VC-backed startups in SF and NYC. 
 I work closely with founders and engineers on difficult, high-impact hires.
+
 I've placed over 300 engineers the past 9 years in recruiting.
 
 ### What I care about
