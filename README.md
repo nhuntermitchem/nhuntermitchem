@@ -1,7 +1,7 @@
 ## Hey, I’m Hunter 👋
 
 I’m a recruiter focused on early-stage, VC-backed startups in SF and NYC. 
-I work closely with founders and senior engineers on difficult, high-impact hires.
+I work closely with founders and engineers on difficult, high-impact hires.
 
 ### What I care about
 - Clear expectations and transparency. I prioritize candidate experience and guarantee I won't 👻 you. 
